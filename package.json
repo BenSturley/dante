@@ -1,0 +1,22 @@
+{
+  "name": "dante",
+  "version": "1.0.0",
+  "description": "watch-this-fuckin-space",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenSturley/dante.git"
+  },
+  "author": "Ben Sturley <bensturley@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenSturley/dante/issues"
+  },
+  "homepage": "https://github.com/BenSturley/dante#readme",
+  "dependencies": {
+    "eslint": "^5.12.1"
+  }
+}
